@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Mapu</string>
+
+    //textos botones principal
+    <string name="btn_numero">Números</string>
+    <string name="btn_color">Colores</string>
+    <string name="btn_animales">Animales</string>
+    <string name="btn_instrumento">Instrumentos</string>
+    <string name="btn_espacio">Espacios</string>
+    <string name="btn_newen">Newen Mapu</string>
+
+    //texto botones números
+    <string name="btn_uno">1</string>
+    <string name="btn_dos">2</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_cuatro">4</string>
+    <string name="btn_cinco">5</string>
+    <string name="btn_seis">6</string>
+    <string name="btn_siete">7</string>
+    <string name="btn_ocho">8</string>
+    <string name="btn_nueve">9</string>
+    <string name="btn_diez">10</string>
+    <string name="btn_cien">100</string>
+    <string name="btn_mil">1000</string>
+
+    //texto setText números
+    <string name="btn_uno_mapu">Kiñe</string>
+    <string name="btn_dos_mapu">Epu</string>
+    <string name="btn_tres_mapu">Küla</string>
+    <string name="btn_cuatro_mapu">Meli</string>
+    <string name="btn_cinco_mapu">Kechu</string>
+    <string name="btn_seis_mapu">Kayu</string>
+    <string name="btn_siete_mapu">Regle</string>
+    <string name="btn_ocho_mapu">Purra</string>
+    <string name="btn_nueve_mapu">Aylla</string>
+    <string name="btn_diez_mapu">Mari</string>
+    <string name="btn_cien_mapu">Pataka</string>
+    <string name="btn_mil_mapu">Kiñe Warangka</string>
+
+    //texto setText colores
+    <string name="btn_rojo_mapu">Kelü</string>
+    <string name="btn_amarillo_mapu">Choz</string>
+    <string name="btn_cafe_mapu">Kolü</string>
+    <string name="btn_blanco_mapu">Lüg</string>
+    <string name="btn_negro_mapu">Kurü</string>
+    <string name="btn_verde_mapu">Karü</string>
+    <string name="btn_azul_mapu">Kallfü</string>
+    <string name="btn_gris_mapu">Kazü</string>
+    <string name="btn_morado_mapu">Koñoll</string>
+    <string name="btn_naranjo_mapu">Kelüchoz</string>
+
+    //texto botones colores
+    <string name="btn_rojo">Rojo</string>
+    <string name="btn_amarillo">Amarillo</string>
+    <string name="btn_cafe">Café</string>
+    <string name="btn_blanco">Blanco</string>
+    <string name="btn_negro">Negro</string>
+    <string name="btn_verde">Verde</string>
+    <string name="btn_azul">Azul</string>
+    <string name="btn_gris">Gris</string>
+    <string name="btn_morado">Morado</string>
+    <string name="btn_naranjo">Naranjo</string>
+    
+    //texto setImagenes
+    <string name="btn_caballo">Kawellu</string>
+    <string name="btn_cabra">Kapüra</string>
+    <string name="btn_cerdo">Sanwe</string>
+    <string name="btn_culebra">Filu</string>
+    <string name="btn_gallina">Achawall</string>
+    <string name="btn_gato">Ñarki</string>
+    <string name="btn_nandu">Choyke</string>
+    <string name="btn_oveja">Ufisa</string>
+    <string name="btn_perro">Trewa</string>
+    <string name="btn_pudu">Puzü</string>
+    <string name="btn_vaca">Waca</string>
+    <string name="btn_zorro">Ñgürü</string>
+</resources>
